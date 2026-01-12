@@ -1,4 +1,4 @@
-const API = import.meta.env.VITE_API_URL || 'https://practica-backend-frontend.onrender.com';
+const API = import.meta.env.VITE_API_URL || 'https://proyecto-dsi.onrender.com';
 // Elementos Globales
 const loginSection = document.getElementById('login-section');
 const dashboardSection = document.getElementById('dashboard-section');
